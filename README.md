@@ -9,6 +9,7 @@ I have written:
  - 🎱 Ray Tracers ([Pyglare](https://github.com/keyvank/pyglare))
  - ⛓️ Blockchains ([Zeeka Network](https://github.com/zeeka-network/bazuka), [Project Daten](https://github.com/xdtlab/pydaten))
  - 🎭 Zero-Knowledge Proof Engines ([Pyrove](https://github.com/keyvank/pyrove), [Bellperson](https://github.com/filecoin-project/bellperson))
+ - 🎵 Software Synthesizers ([Debuzzy](https://github.com/keyvank/debuzzy))
  - 😂 Fancy resumes (https://keyvan.me)
  - ✈️ Travel diaries ([ماتروشکا](https://matrushka.ir))
 
