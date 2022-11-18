@@ -15,7 +15,7 @@ I have written:
 
 Curious about my current occupation?
 
-- 🔭 I’m currently working on [Zeeka Network](https://zeeka.network), a new layer-1 cryptocurrency which uses ZK-proofs under the hood to provide scalability.
+- 🔭 I’m currently working on [Ziesha Network](https://ziesha.network), a new layer-1 cryptocurrency which uses ZK-proofs under the hood to provide scalability.
 - 🎸 I’m currently learning to play guitar, so more passionate and curious about music, thus also learning about computer synthesizers and sound wave generation 🎵
 - 🇷🇺 Изучаю русский язык! 👅
 - 📫 Reach me on Telegram: [@keyvankambakhsh](https://t.me/keyvankambakhsh)
