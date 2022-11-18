@@ -7,7 +7,7 @@ I have written:
  - 💻 Computer Emulators ([Chip8Emu](https://github.com/keyvank/chip8emu))
  - 🎮 3D Rasterizers ([Tracy](https://github.com/keyvank/tracy))
  - 🎱 Ray Tracers ([Pyglare](https://github.com/keyvank/pyglare))
- - ⛓️ Blockchains ([Zeeka Network](https://github.com/zeeka-network/bazuka), [Project Daten](https://github.com/xdtlab/pydaten))
+ - ⛓️ Blockchains ([Ziesha Network](https://github.com/ziesha-network/bazuka), [Project Daten](https://github.com/xdtlab/pydaten))
  - 🎭 Zero-Knowledge Proof Engines ([Pyrove](https://github.com/keyvank/pyrove), [Bellperson](https://github.com/filecoin-project/bellperson))
  - 🎵 Software Synthesizers ([Debuzzy](https://github.com/keyvank/debuzzy))
  - 😂 Fancy resumes (https://keyvan.me)
