@@ -10,7 +10,7 @@ I have written:
  - ⛓️ Blockchains ([Ziesha Network](https://github.com/ziesha-network/bazuka), [Project Daten](https://github.com/xdtlab/pydaten))
  - 🎭 Zero-Knowledge Proof Engines ([Pyrove](https://github.com/keyvank/pyrove), [Bellperson](https://github.com/filecoin-project/bellperson))
  - 🎵 Audio Synthesizers ([Debuzzy](https://github.com/keyvank/debuzzy))
- - 📈 Tensor Processors ([Learst](https://github.com/keyvank/learst))
+ - 📈 Deep Learning Libraries ([Learst](https://github.com/keyvank/learst))
  - 😂 Fancy resumes (https://keyvan.me)
  - ✈️ Travel diaries ([ماتروشکا](https://matrushka.ir))
 
