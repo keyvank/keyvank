@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is 🪐Keyvan, a hardcore computer geek who, unlike all those boring so called "Software Engineers" 🙄, adores reinventing the wheel!
+This is 🪐Keyvan, a hardcore computer geek who adores reinventing the wheel!
 
 I have written:
  - 🐧 Operating Systems ([ZincOS](https://github.com/keyvank/zincos))
@@ -20,3 +20,11 @@ Curious about my current occupation?
 - 🎸 I’m currently learning to play guitar, so more passionate and curious about music, thus also learning about computer synthesizers and sound wave generation 🎵
 - 🇷🇺 Изучаю русский язык! 👅
 - 📫 Reach me on Telegram: [@keyvankambakhsh](https://t.me/keyvankambakhsh)
+
+Previous occupations:
+
+ - 🧱 Divar - A giant Iranian web company in which I was working as a Back-end Software Engineer. (Python + Golang + Kubernetes)
+ - 🗃️ Filecoin Project (Protocol Labs) - Making Proof-of-Replication and Proof-of-SpaceTime faster, by accelerating zkSNARK libraries with GPUs. (Rust + OpenCL)
+ - ⚡ Finality Labs - Researching and developing layer-2 scalability solutions for Ethereum blockchain. (Solidity)
+ - 🤑 Stellar Asset Management - Building an infrastructure for trading-bots to operate in, using Clojure. (Clojure + ClojureScript)
+ - 🧑‍🏫 CodeLearnr - Startup of my own, an interactive platform for teaching programming to persian-speaking users. (Python)
