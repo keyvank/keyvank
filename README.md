@@ -3,16 +3,16 @@
 This is 🪐Keyvan, a hardcore computer geek who adores reinventing the wheel!
 
 I have written:
- - 🐧 Operating Systems ([ZincOS](https://github.com/keyvank/zincos))
- - 💻 Computer Emulators ([Chip8Emu](https://github.com/keyvank/chip8emu))
- - 🎮 3D Rasterizers ([Tracy](https://github.com/keyvank/tracy))
- - 🎱 Ray Tracers ([Pyglare](https://github.com/keyvank/pyglare))
- - ⛓️ Blockchains ([Ziesha Network](https://github.com/ziesha-network/bazuka), [Project Daten](https://github.com/xdtlab/pydaten))
- - 🎭 Zero-Knowledge Proof Engines ([Pyrove](https://github.com/keyvank/pyrove), [Bellperson](https://github.com/filecoin-project/bellperson))
- - 🎵 Audio Synthesizers ([Debuzzy](https://github.com/keyvank/debuzzy))
- - 📈 Deep Learning Libraries ([Learst](https://github.com/keyvank/learst))
- - 🤖 Generative Pretrained Transformers ([femtoGPT](https://github.com/keyvank/femtoGPT))
- - 😂 Fancy resumes (https://keyvan.me)
+ - 🐧 Operating Systems ([ZincOS](https://github.com/keyvank/zincos) - **C++**)
+ - 💻 Computer Emulators ([Chip8Emu](https://github.com/keyvank/chip8emu) - **C++**)
+ - 🎮 3D Rasterizers ([Tracy](https://github.com/keyvank/tracy) - **C++**)
+ - 🎱 Ray Tracers ([Pyglare](https://github.com/keyvank/pyglare) - **Python**)
+ - ⛓️ Blockchains ([Ziesha Network](https://github.com/ziesha-network/bazuka) - **Rust**, [Project Daten](https://github.com/xdtlab/pydaten) - **Python**)
+ - 🎭 Zero-Knowledge Proof Engines ([Pyrove](https://github.com/keyvank/pyrove) - **Rust**, [Bellperson](https://github.com/filecoin-project/bellperson) - **Python**)
+ - 🎵 Audio Synthesizers ([Debuzzy](https://github.com/keyvank/debuzzy) - **Rust**)
+ - 📈 Deep Learning Libraries ([Learst](https://github.com/keyvank/learst) - **Rust**)
+ - 🤖 Generative Pretrained Transformers ([femtoGPT](https://github.com/keyvank/femtoGPT) - **Rust**)
+ - 😂 Fancy resumes (https://keyvan.me - **Plain JS**)
  - ✈️ Travel diaries ([ماتروشکا](https://matrushka.ir))
 
 Curious about my current occupation?
@@ -24,8 +24,8 @@ Curious about my current occupation?
 
 Previous occupations:
 
- - 🧱 Divar - A giant Iranian web company in which I was working as a Back-end Software Engineer. (Python + Golang + Kubernetes)
- - 🗃️ Filecoin Project (Protocol Labs) - Making Proof-of-Replication and Proof-of-SpaceTime faster, by accelerating zkSNARK libraries with GPUs. (Rust + OpenCL)
- - ⚡ Finality Labs - Researching and developing layer-2 scalability solutions for Ethereum blockchain. (Solidity)
- - 🤑 Stellar Asset Management - Building an infrastructure for trading-bots to operate in, using Clojure. (Clojure + ClojureScript)
- - 🧑‍🏫 CodeLearnr - Startup of my own, an interactive platform for teaching programming to persian-speaking users. (Python)
+ - 🧱 Divar - A giant Iranian web company in which I was working as a Back-end Software Engineer. (**Python** + **Golang** + **Kubernetes**)
+ - 🗃️ Filecoin Project (Protocol Labs) - Making Proof-of-Replication and Proof-of-SpaceTime faster, by accelerating zkSNARK libraries with GPUs. (**Rust** + **OpenCL**)
+ - ⚡ Finality Labs - Researching and developing layer-2 scalability solutions for Ethereum blockchain. (**Solidity**)
+ - 🤑 Stellar Asset Management - Building an infrastructure for trading-bots to operate in, using Clojure. (**Clojure** + **ClojureScript**)
+ - 🧑‍🏫 CodeLearnr - Startup of my own, an interactive platform for teaching programming to persian-speaking users. (**Python**)
