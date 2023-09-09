@@ -17,13 +17,14 @@ I have written:
 
 Curious about my current occupation?
 
-- 🔭 I’m currently working on [Ziesha Network](https://ziesha.network), a new layer-1 cryptocurrency which uses ZK-proofs under the hood to provide scalability.
+- 🔭 I’m currently the director of [Nobitex Labs](https://labs.nobitex.ir), a blockchain research team backed by Iran's biggest cryptocurrency exchange, [Nobitex](https://nobitex.ir).
 - 🎸 I’m currently learning to play guitar, so more passionate and curious about music, thus also learning about computer synthesizers and sound wave generation 🎵
 - 🇷🇺 Изучаю русский язык! 👅
 - 📫 Reach me on Telegram: [@keyvankambakhsh](https://t.me/keyvankambakhsh)
 
 Previous occupations:
 
+ - 🪙 Ziesha Network - I am the founder of a new layer-1 cryptocurrency which uses ZK-proofs under the hood to provide privacy/scalability. (**Rust**)
  - 🧱 Divar - A giant Iranian web company in which I was working as a Back-end Software Engineer. (**Python** + **Golang** + **Kubernetes**)
  - 🗃️ Filecoin Project (Protocol Labs) - Making Proof-of-Replication and Proof-of-SpaceTime faster, by accelerating zkSNARK libraries with GPUs. (**Rust** + **OpenCL**)
  - ⚡ Finality Labs - Researching and developing layer-2 scalability solutions for Ethereum blockchain. (**Solidity**)
