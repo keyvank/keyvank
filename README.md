@@ -5,6 +5,7 @@ This is 🪐Keyvan, a hardcore computer geek who adores reinventing the wheel!
 I have written:
  - 🐧 Operating Systems ([ZincOS](https://github.com/keyvank/zincos) - **C++**)
  - 💻 Computer Emulators ([Chip8Emu](https://github.com/keyvank/chip8emu) - **C++**)
+ - 🔌 Hardware Simulators ([Chip8Emu](https://github.com/keyvank/pygates) - **Python**)
  - 🎮 3D Rasterizers ([Tracy](https://github.com/keyvank/tracy) - **C++**)
  - 🎱 Ray Tracers ([Pyglare](https://github.com/keyvank/pyglare) - **Python**)
  - ⛓️ Blockchains ([Ziesha Network](https://github.com/ziesha-network/bazuka) - **Rust**, [Project Daten](https://github.com/xdtlab/pydaten) - **Python**)
