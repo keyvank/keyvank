@@ -13,6 +13,7 @@ I have written:
  - 🎵 Audio Synthesizers ([Debuzzy](https://github.com/keyvank/debuzzy) - **Rust**)
  - 📈 Deep Learning Libraries ([Learst](https://github.com/keyvank/learst) - **Rust**)
  - 🤖 Generative Pretrained Transformers ([femtoGPT](https://github.com/keyvank/femtoGPT) - **Rust**)
+ - ⚡ Electronics Circuit Simulators ([Cirkus](https://github.com/keyvank/cirkus) - **Python**)
  - 😂 Fancy resumes (https://keyvan.me - **Plain JS**)
  - ✈️ Travel diaries ([ماتروشکا](https://matrushka.ir))
 
