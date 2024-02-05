@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is 🪐Keyvan, a hardcore computer geek who adores reinventing the wheel! (***HEY!*** If you are also a fan of building everything from scratch, read my book: [The Super Programmer](https://github.com/keyvank/tsp))
+This is 🪐Keyvan, a hardcore computer geek who adores reinventing the wheel! (***HEY!*** If you are also a fan of building everything from scratch, read my book: [The Super Programmer](https://github.com/keyvank/tsp) 📖)
 
 I have written:
  - 🐧 Operating Systems ([ZincOS](https://github.com/keyvank/zincos) - **C++**)
@@ -15,6 +15,7 @@ I have written:
  - 🤖 Generative Pretrained Transformers ([femtoGPT](https://github.com/keyvank/femtoGPT) - **Rust**)
  - ⚡ Electronics Circuit Simulators ([Cirkus](https://github.com/keyvank/cirkus) - **Python**)
  - 😂 Fancy resumes (https://keyvan.me - **Plain JS**)
+ - 📖 Books ([The Super Programmer](https://github.com/keyvank/tsp))
  - ✈️ Travel diaries ([ماتروشکا](https://matrushka.ir))
 
 Curious about my current occupation?
