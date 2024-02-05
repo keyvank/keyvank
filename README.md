@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is 🪐Keyvan, a hardcore computer geek who adores reinventing the wheel!
+This is 🪐Keyvan, a hardcore computer geek who adores reinventing the wheel! (***HEY!*** If you are also a fan of building everything from scratch, read my book: [The Super Programmer](https://github.com/keyvank/tsp))
 
 I have written:
  - 🐧 Operating Systems ([ZincOS](https://github.com/keyvank/zincos) - **C++**)
