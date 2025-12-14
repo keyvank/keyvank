@@ -11,7 +11,7 @@ I have written:
  - 🎱 Ray Tracers ([Pyglare](https://github.com/keyvank/pyglare) - **Python**)
  - ⛓️ Blockchains ([Ziesha Network](https://github.com/ziesha-network/bazuka) - **Rust**, [Project Daten](https://github.com/xdtlab/pydaten) - **Python**)
  - 🥷 Privacy Solutions ([WORM Privacy](https://github.com/worm-privacy/proof-of-burn) - **Rust + Circom**)
- - 🎭 Zero-Knowledge Proof Engines ([Pyrove](https://github.com/keyvank/pyrove) - **Rust**, [Bellperson](https://github.com/filecoin-project/bellperson) - **Python**)
+ - 🎭 Zero-Knowledge Proof Engines ([Pyrove](https://github.com/keyvank/pyrove) - **Python**, [Bellperson](https://github.com/filecoin-project/bellperson) - **Rust**)
  - 🎵 Audio Synthesizers ([Debuzzy](https://github.com/keyvank/debuzzy) - **Rust**)
  - 📈 Deep Learning Libraries ([Learst](https://github.com/keyvank/learst) - **Rust**)
  - 🤖 Generative Pretrained Transformers ([femtoGPT](https://github.com/keyvank/femtoGPT) - **Rust**)
